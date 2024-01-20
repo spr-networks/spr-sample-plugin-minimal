@@ -1,8 +1,8 @@
 {
-  "Name": "spr-sample-plugin",
+  "Name": "spr-plugin-minimal",
   "ComposeFilePath": "plugins/user/spr-plugin-minimal/docker-compose.yml",
   "UnixPath": "/state/plugins/spr_plugin_minimal/socket",
-  "URI": "spr-sample-plugin",
+  "URI": "spr-plugin-minimal",
   "HasUI": true,
   "SandboxedUI": true,
   "InstallTokenPath": "/configs/plugins/spr_plugin_minimal/api-token"
