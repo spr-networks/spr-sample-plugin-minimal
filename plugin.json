@@ -5,6 +5,6 @@
   "URI": "spr-plugin-minimal",
   "HasUI": true,
   "SandboxedUI": true,
-  "InstallTokenPath": "/configs/plugins/spr_plugin_minimal/api-token"
-  "Enabled": true,
+  "InstallTokenPath": "/configs/plugins/spr_plugin_minimal/api-token",
+  "Enabled": true
 }
